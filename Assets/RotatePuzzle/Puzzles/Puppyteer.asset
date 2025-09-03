@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d261be895ad55848a1036abca929d98, type: 3}
+  m_Name: Puppyteer
+  m_EditorClassIdentifier: 
+  _images:
+  - {fileID: 1019822433, guid: 903f2d89b0c1c454da28d3230724d74b, type: 3}
+  - {fileID: 1905514119, guid: 903f2d89b0c1c454da28d3230724d74b, type: 3}
+  - {fileID: 1806821748, guid: 903f2d89b0c1c454da28d3230724d74b, type: 3}
+  - {fileID: 42690530, guid: 903f2d89b0c1c454da28d3230724d74b, type: 3}
+  - {fileID: 2088917026, guid: 903f2d89b0c1c454da28d3230724d74b, type: 3}
+  - {fileID: 412948408, guid: 903f2d89b0c1c454da28d3230724d74b, type: 3}
+  - {fileID: -1012643758, guid: 903f2d89b0c1c454da28d3230724d74b, type: 3}
+  - {fileID: 1811337979, guid: 903f2d89b0c1c454da28d3230724d74b, type: 3}
+  - {fileID: 1759944023, guid: 903f2d89b0c1c454da28d3230724d74b, type: 3}
+  - {fileID: -1344488293, guid: 903f2d89b0c1c454da28d3230724d74b, type: 3}
+  - {fileID: -1947612227, guid: 903f2d89b0c1c454da28d3230724d74b, type: 3}
+  - {fileID: 661749063, guid: 903f2d89b0c1c454da28d3230724d74b, type: 3}
+  - {fileID: 1157050582, guid: 903f2d89b0c1c454da28d3230724d74b, type: 3}
+  - {fileID: 2110978664, guid: 903f2d89b0c1c454da28d3230724d74b, type: 3}
+  - {fileID: 1389332405, guid: 903f2d89b0c1c454da28d3230724d74b, type: 3}
+  - {fileID: -1429881623, guid: 903f2d89b0c1c454da28d3230724d74b, type: 3}
+  _puzzleComlete: 0

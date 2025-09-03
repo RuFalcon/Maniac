@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f7bd2ed1a56af9e4db02e8be4acb669e, type: 3}
+  m_Name: Leprekon
+  m_EditorClassIdentifier: 
+  maniacName: "\u041B\u0435\u043F\u0440\u0435\u043A\u043E\u043D"
+  maniacAvatar: {fileID: -3888091720061950699, guid: 85b2f038190ceff44a6b5bfac2deca9c, type: 3}
+  achievementTag: leprekon_defeated

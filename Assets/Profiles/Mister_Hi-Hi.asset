@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f7bd2ed1a56af9e4db02e8be4acb669e, type: 3}
+  m_Name: Mister_Hi-Hi
+  m_EditorClassIdentifier: 
+  maniacName: "\u041C\u0438\u0441\u0442\u0435\u0440 \u0425\u0438-\u0445\u0438"
+  maniacAvatar: {fileID: 1777535811298547261, guid: 56892e9574e7e714c86f855bf2e0abf2, type: 3}
+  achievementTag: mr_hehe_defeated

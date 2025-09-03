@@ -1,0 +1,226 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Plugins/GamePush/InitScene/AwaitInit.unity
+    guid: e4f60b4b83a69419381b62e55fcda639
+  - enabled: 1
+    path: Assets/Scenes/LevelSelect.unity
+    guid: d43c1e34dfc3b374c86b7d6fa781351c
+  - enabled: 1
+    path: Assets/Scenes/Level 1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Level 2.unity
+    guid: f70fcbff195546d48803bf79b285f6df
+  - enabled: 1
+    path: Assets/Scenes/Level 3.unity
+    guid: 2c4c9286a197fa64f8d93be875a56a99
+  - enabled: 1
+    path: Assets/Scenes/Level 4.unity
+    guid: a4b6d17f3fd3d2d479c79691c0d10ee0
+  - enabled: 1
+    path: Assets/Scenes/RotatePuzzle.unity
+    guid: 4c6fa4a2806f68945947b87d73ceb8a5
+  - enabled: 1
+    path: Assets/Scenes/Level 5.unity
+    guid: 8ab8c99afebff8d4eb623ffc128fe9db
+  - enabled: 1
+    path: Assets/Scenes/Level 6.unity
+    guid: f27f5d36dc1233448b3037f2f449e04b
+  - enabled: 1
+    path: Assets/Scenes/Level 7.unity
+    guid: 8ac51bfd467b4cd49bd54a1a11d1bec9
+  - enabled: 1
+    path: Assets/Scenes/Level 8.unity
+    guid: 6cb0c3de92c635948a8f686d287b28e4
+  - enabled: 1
+    path: Assets/Scenes/MemoryPuzzle.unity
+    guid: 953b5b688aefba34aa9816fc9cb4a309
+  - enabled: 1
+    path: Assets/Scenes/Level 9.unity
+    guid: 47b81a775908c8341b0d0f9504cdc7f8
+  - enabled: 1
+    path: Assets/Scenes/Level 10.unity
+    guid: 5f4f274ce439ddb4f80dbe2877bd3205
+  - enabled: 1
+    path: Assets/Scenes/Level 11.unity
+    guid: 08ecac68d682d8a47be459c370521dbc
+  - enabled: 1
+    path: Assets/Scenes/Level 12.unity
+    guid: 447b27ac015905f4384ffd262e4327a9
+  - enabled: 1
+    path: Assets/Scenes/ConnectPuzzle.unity
+    guid: a104a964dde400541859b4bbc95d8581
+  - enabled: 1
+    path: Assets/Scenes/Level 13.unity
+    guid: aa7a874be5543f148bb77828334d4388
+  - enabled: 1
+    path: Assets/Scenes/Level 14.unity
+    guid: 60c4b4fedf4178f43ad5281ad2dfe7b6
+  - enabled: 1
+    path: Assets/Scenes/Level 15.unity
+    guid: 6d2b60a9c68dec14f82cc030bf595d6e
+  - enabled: 1
+    path: Assets/Scenes/Level 16.unity
+    guid: dc3e91311473522409202f65bef5e18b
+  - enabled: 1
+    path: Assets/Scenes/MemoryPuzzle 2.unity
+    guid: 81fdd5a3c6401324a940a78dd9230223
+  - enabled: 1
+    path: Assets/Scenes/Level 17.unity
+    guid: ff521d074f0a81743a56435919a64264
+  - enabled: 1
+    path: Assets/Scenes/Level 18.unity
+    guid: 68dd6e879cedfcc409c5a13a61f205de
+  - enabled: 1
+    path: Assets/Scenes/Level 19.unity
+    guid: f243556f43b17f6418ed674964cad940
+  - enabled: 1
+    path: Assets/Scenes/Level 20.unity
+    guid: 8b1e7ca79e9b26c4da6ee01c183448fb
+  - enabled: 1
+    path: Assets/Scenes/RotatePuzzle 2.unity
+    guid: 35d5a7876da036848908ddd97b9fa18f
+  - enabled: 1
+    path: Assets/Scenes/Level 21.unity
+    guid: c3d6b8a7de0847a4f8eab24fb3bb249e
+  - enabled: 1
+    path: Assets/Scenes/Level 22.unity
+    guid: 918d1279848807c4ebae20e5f5711b19
+  - enabled: 1
+    path: Assets/Scenes/Level 23.unity
+    guid: 60d5fb844811ca544b8d68a7cb5b623b
+  - enabled: 1
+    path: Assets/Scenes/Level 24.unity
+    guid: 7e1d6d28fdc10494695412888889d4be
+  - enabled: 1
+    path: Assets/Scenes/ConnectPuzzle 2.unity
+    guid: f9e5cde36fd46bd48a728fb1ca548c9b
+  - enabled: 1
+    path: Assets/Scenes/Level 25.unity
+    guid: 9f23096ea09695446bc2bf79974ec121
+  - enabled: 1
+    path: Assets/Scenes/Level 26.unity
+    guid: e8776595dcd635049bc264b8aaa61190
+  - enabled: 1
+    path: Assets/Scenes/Level 27.unity
+    guid: 55772735af6317f49a7e1b89f0aa79c8
+  - enabled: 1
+    path: Assets/Scenes/Level 28.unity
+    guid: c5d92ce5241c7464591a37ad60478398
+  - enabled: 1
+    path: Assets/Scenes/MemoryPuzzle 3.unity
+    guid: f7fafe17c46fb7e44b786ba4a701e696
+  - enabled: 1
+    path: Assets/Scenes/Level 29.unity
+    guid: 3cbf0c11e73c0f04dbe3f9795626012c
+  - enabled: 1
+    path: Assets/Scenes/Level 30.unity
+    guid: b43045db775fec542bcc164142eda315
+  - enabled: 1
+    path: Assets/Scenes/Level 31.unity
+    guid: 3a323ec78fd8d994eb1214523a0b148a
+  - enabled: 1
+    path: Assets/Scenes/Level 32.unity
+    guid: 101636524a79c95499b92e03874c770b
+  - enabled: 1
+    path: Assets/Scenes/RotatePuzzle 3.unity
+    guid: 047c69b18b608ef4a919a4c02a678ce0
+  - enabled: 1
+    path: Assets/Scenes/Level 33.unity
+    guid: 615c7e808ad6c8640801e308d106be97
+  - enabled: 1
+    path: Assets/Scenes/Level 34.unity
+    guid: 4cddc5ec1ef6390428cc2f28851999fd
+  - enabled: 1
+    path: Assets/Scenes/Level 35.unity
+    guid: 6b14489eec8a66249b9be85c43515e26
+  - enabled: 1
+    path: Assets/Scenes/Level 36.unity
+    guid: 304353aac46fc2f4facfb1e9fc87cd4d
+  - enabled: 1
+    path: Assets/Scenes/ConnectPuzzle 3.unity
+    guid: 8091c9b3de50b6f4f81aa929b4a58b34
+  - enabled: 1
+    path: Assets/Scenes/Level 37.unity
+    guid: d28e6e3246936604b8a16aa5d9e36e29
+  - enabled: 1
+    path: Assets/Scenes/Level 38.unity
+    guid: cee72434cba944f42802f34ffa5f7c9c
+  - enabled: 1
+    path: Assets/Scenes/Level 39.unity
+    guid: 4726a7cf5edb68848850eae28bb6dd9d
+  - enabled: 1
+    path: Assets/Scenes/MemoryPuzzle 4.unity
+    guid: 1b0b51b96fdb1434d998d67e2a62ad4b
+  - enabled: 1
+    path: Assets/Scenes/Level 40.unity
+    guid: 7ecce64ab21d36f428fd0a934d56ac1a
+  - enabled: 1
+    path: Assets/Scenes/Level 41.unity
+    guid: 99950e672e035af46a348876e5a3b8ba
+  - enabled: 1
+    path: Assets/Scenes/Level 42.unity
+    guid: 2556dc6d89267594b9aaab420ff53b6e
+  - enabled: 1
+    path: Assets/Scenes/Level 43.unity
+    guid: bf8f9e2e48c651f4481702ed890a757b
+  - enabled: 1
+    path: Assets/Scenes/Level 44.unity
+    guid: 8d8728a16e4558e4d94bcbd768ca5630
+  - enabled: 1
+    path: Assets/Scenes/MemoryPuzzle 5.unity
+    guid: d83c11014e1877645b832fd1dbcf0229
+  - enabled: 1
+    path: Assets/Scenes/Level 45.unity
+    guid: c7a9190c736f8fd4c9638a1e2600f090
+  - enabled: 1
+    path: Assets/Scenes/Level 46.unity
+    guid: 7487a373353f48f468d920e7573696cf
+  - enabled: 1
+    path: Assets/Scenes/Level 47.unity
+    guid: f653a2a59033dd140ad82a12e40def18
+  - enabled: 1
+    path: Assets/Scenes/Level 48.unity
+    guid: d8f635ce9a9b29c4ba28976c1f89237f
+  - enabled: 1
+    path: Assets/Scenes/RotatePuzzle 4.unity
+    guid: 0756c7a2ebf983648847264c7ecd2104
+  - enabled: 1
+    path: Assets/Scenes/Level 49.unity
+    guid: 2b307dab9139b4548ab0cc5fd767d858
+  - enabled: 1
+    path: Assets/Scenes/Level 50.unity
+    guid: fd8e77f329a78c74d9390d9e20e0fadd
+  - enabled: 1
+    path: Assets/Scenes/Level 51.unity
+    guid: 8d30233e5fea94a4db2836a563fba6d8
+  - enabled: 1
+    path: Assets/Scenes/Level 52.unity
+    guid: f2349057d2ee5a44bbddaa7bbc1fc6b3
+  - enabled: 1
+    path: Assets/Scenes/MemoryPuzzle 6.unity
+    guid: d1970557c4a1e5745bb40a02bbb53c13
+  - enabled: 1
+    path: Assets/Scenes/Level 53.unity
+    guid: 9adfef927a2e73347950e1099bf6ea0d
+  - enabled: 1
+    path: Assets/Scenes/Level 54.unity
+    guid: 4caa5e6dfedf041409bf6f7c0c958e4c
+  - enabled: 1
+    path: Assets/Scenes/RotatePuzzle 5.unity
+    guid: 847021ab5b58f8b4095ca96fd295c4ed
+  - enabled: 1
+    path: Assets/Scenes/Level 55.unity
+    guid: e4eb359f30e6188488454132ae20069c
+  - enabled: 1
+    path: Assets/Scenes/Level 56.unity
+    guid: dad5e3f73b2c39b4d830eb5fd3d100f8
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 3590b91b4603b465dbb4216d601bff33, type: 3}
+  m_UseUCBPForAssetBundles: 0

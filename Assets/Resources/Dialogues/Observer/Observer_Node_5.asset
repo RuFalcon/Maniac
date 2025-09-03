@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 412d62c93bbca024d97b2cba01242dce, type: 3}
+  m_Name: Observer_Node_5
+  m_EditorClassIdentifier: 
+  maniacProfile: {fileID: 11400000, guid: 71193edbcbaa7f449afa6fa62eb1a099, type: 2}
+  maniacMessages:
+  - "\u0427\u0442\u043E?.. \u0422\u044B... \u0442\u044B \u0432\u0440\u0435\u0448\u044C!"
+  playerChoices: []
+  victoryMessage: "\u0417\u0430\u0442\u0435\u043C \u0447\u0430\u0442 \u0440\u0435\u0437\u043A\u043E
+    \u0437\u0430\u043A\u0440\u044B\u0432\u0430\u0435\u0442\u0441\u044F, \u0430 \u043F\u0440\u043E\u0444\u0438\u043B\u044C
+    \"Observer_77\" \u0443\u0434\u0430\u043B\u044F\u0435\u0442\u0441\u044F. \u0412\u0430\u0448
+    \u0444\u0438\u043D\u0430\u043B\u044C\u043D\u044B\u0439, \u0443\u0432\u0435\u0440\u0435\u043D\u043D\u044B\u0439
+    \u0431\u043B\u0435\u0444 \u043D\u0430\u043F\u0443\u0433\u0430\u043B \u0435\u0433\u043E
+    \u0433\u043E\u0440\u0430\u0437\u0434\u043E \u0441\u0438\u043B\u044C\u043D\u0435\u0435,
+    \u0447\u0435\u043C \u0435\u0433\u043E \u0443\u0433\u0440\u043E\u0437\u044B -
+    \u0432\u0430\u0441. \u041E\u043D \u0438\u0441\u043F\u0443\u0433\u0430\u043B\u0441\u044F,
+    \u0447\u0442\u043E \u0436\u0435\u0440\u0442\u0432\u0430 \u043E\u043A\u0430\u0437\u0430\u043B\u0430\u0441\u044C
+    \u0445\u0438\u0449\u043D\u0438\u043A\u043E\u043C"

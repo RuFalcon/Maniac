@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f7bd2ed1a56af9e4db02e8be4acb669e, type: 3}
+  m_Name: Beer
+  m_EditorClassIdentifier: 
+  maniacName: "\u041F\u0438\u0432\u043E \u041B\u0451\u0444\u0444"
+  maniacAvatar: {fileID: 7795085465242543974, guid: 78b0285b8b7a90441b925d7e6bfc20a5, type: 3}
+  achievementTag: beer_defeated

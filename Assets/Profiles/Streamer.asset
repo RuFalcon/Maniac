@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f7bd2ed1a56af9e4db02e8be4acb669e, type: 3}
+  m_Name: Streamer
+  m_EditorClassIdentifier: 
+  maniacName: "\u0421\u0442\u0440\u0438\u043C\u0435\u0440"
+  maniacAvatar: {fileID: -6933781658618455551, guid: e438c8aa7b0d17f4e8db3d0d551fe81a, type: 3}
+  achievementTag: streamer_defeated

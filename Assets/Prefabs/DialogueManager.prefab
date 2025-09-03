@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &825030639288544145
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8897638063314667274}
+  - component: {fileID: 6123439635812183306}
+  m_Layer: 0
+  m_Name: DialogueManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8897638063314667274
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 825030639288544145}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6123439635812183306
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 825030639288544145}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5d5769c3369bfe429a237ec2042e04e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentNode: {fileID: 11400000, guid: 358e4f2cdbbfcba429e29df9c9d67205, type: 2}
+  chatScrollRect: {fileID: 0}
+  contentPanel: {fileID: 0}
+  choicesPanel: {fileID: 0}
+  choiceButtons:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  failurePanel: {fileID: 0}
+  failureOutcomeText: {fileID: 0}
+  failureButtons: {fileID: 0}
+  victoryPanel: {fileID: 0}
+  maniacMessagePrefab: {fileID: 7517595311463518194, guid: ee253f1f794fc62479f52ed24a60167e, type: 3}
+  playerMessagePrefab: {fileID: 2517215895325750208, guid: 4f019f664cba56741a98aee42a0e9b48, type: 3}
+  typingIndicatorPrefab: {fileID: 7517595311463518194, guid: 680e9876f9f1f954fbf6f9db19a7ae88, type: 3}
+  typingSpeed: 0.04
+  thinkingTime: 1.2

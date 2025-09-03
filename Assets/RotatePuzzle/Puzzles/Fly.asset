@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d261be895ad55848a1036abca929d98, type: 3}
+  m_Name: Fly
+  m_EditorClassIdentifier: 
+  _images:
+  - {fileID: 1407763923, guid: e9a7228a6268da943912a35fc7d2094e, type: 3}
+  - {fileID: 1269609568, guid: e9a7228a6268da943912a35fc7d2094e, type: 3}
+  - {fileID: -762007990, guid: e9a7228a6268da943912a35fc7d2094e, type: 3}
+  - {fileID: -934272412, guid: e9a7228a6268da943912a35fc7d2094e, type: 3}
+  - {fileID: -1982539862, guid: e9a7228a6268da943912a35fc7d2094e, type: 3}
+  - {fileID: 1129091985, guid: e9a7228a6268da943912a35fc7d2094e, type: 3}
+  - {fileID: 755089817, guid: e9a7228a6268da943912a35fc7d2094e, type: 3}
+  - {fileID: 2065777564, guid: e9a7228a6268da943912a35fc7d2094e, type: 3}
+  - {fileID: 1363233262, guid: e9a7228a6268da943912a35fc7d2094e, type: 3}
+  - {fileID: 1153342318, guid: e9a7228a6268da943912a35fc7d2094e, type: 3}
+  - {fileID: -1459649237, guid: e9a7228a6268da943912a35fc7d2094e, type: 3}
+  - {fileID: -234460612, guid: e9a7228a6268da943912a35fc7d2094e, type: 3}
+  - {fileID: 1534030128, guid: e9a7228a6268da943912a35fc7d2094e, type: 3}
+  - {fileID: -655159893, guid: e9a7228a6268da943912a35fc7d2094e, type: 3}
+  - {fileID: 850709861, guid: e9a7228a6268da943912a35fc7d2094e, type: 3}
+  - {fileID: 276406710, guid: e9a7228a6268da943912a35fc7d2094e, type: 3}
+  _puzzleComlete: 0
